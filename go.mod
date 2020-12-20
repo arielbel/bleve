@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/RoaringBitmap/roaring v0.4.23
-	github.com/blevesearch/blevex v1.0.0
+	github.com/arielbel/blevex v1.0.1
 	github.com/blevesearch/go-porterstemmer v1.0.3
 	github.com/blevesearch/segment v0.9.0
 	github.com/blevesearch/snowballstem v0.9.0
